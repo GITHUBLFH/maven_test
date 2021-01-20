@@ -7,6 +7,7 @@ public class hello {
 		System.out.println("hello world!更新1");
 		System.out.println("hello world!更新1_dev");
 		System.out.println("hello world!更新2_master");
+		System.out.println("hello world!更新2_dev");
 	}
 
 }
